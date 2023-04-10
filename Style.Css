@@ -1,0 +1,21 @@
+h1{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#eee, #333);  
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:xx-large;
+    color: hsl(28, 97%, 23%);
+}
+/* h1{
+    color: rgb(30, 89, 68);
+    background-color: bisque;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:xx-large;
+    color: hsl(28, 97%, 23%);
+} */
+
